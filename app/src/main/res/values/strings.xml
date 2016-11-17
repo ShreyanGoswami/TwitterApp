@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_page1">page1</string>
+    <string name="title_activity_add_filter">AddFilter</string>
+</resources>
